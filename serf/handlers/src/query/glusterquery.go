@@ -4,10 +4,10 @@ package main
 
 import (
 	"fmt"
-	"helpers"
+	"github.com/intel/RetailWorkloadOrchestrator/serf/handlers/src/helpers"
 	"io/ioutil"
 	"os"
-	mg "rwogluster"
+	mg "github.com/intel/RetailWorkloadOrchestrator/glusterfs-lib/rwogluster"
 	"strings"
 	"time"
 )

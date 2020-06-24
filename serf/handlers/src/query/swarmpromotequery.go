@@ -9,7 +9,7 @@ import (
 	"github.com/docker/docker/client"
 	"os"
 
-	"helpers"
+	"github.com/intel/RetailWorkloadOrchestrator/serf/handlers/src/helpers"
 	"io/ioutil"
 	"strings"
 )

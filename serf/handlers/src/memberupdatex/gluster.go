@@ -4,10 +4,10 @@ package memberupdatex
 
 import (
 	"fmt"
-	"helpers"
+	"github.com/intel/RetailWorkloadOrchestrator/serf/handlers/src/helpers"
 	"os"
 	"os/exec"
-	mg "rwogluster"
+	mg "github.com/intel/RetailWorkloadOrchestrator/glusterfs-lib/rwogluster"
 	"strconv"
 	"strings"
 	"time"

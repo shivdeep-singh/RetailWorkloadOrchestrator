@@ -4,9 +4,9 @@ package main
 
 import (
 	"fmt"
-	"helpers"
+	"github.com/intel/RetailWorkloadOrchestrator/serf/handlers/src/helpers"
 	"math/rand"
-	"memberupdatex"
+	"github.com/intel/RetailWorkloadOrchestrator/serf/handlers/src/memberupdatex"
 	"os"
 	"strconv"
 	"strings"

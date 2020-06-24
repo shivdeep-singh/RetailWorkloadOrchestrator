@@ -6,7 +6,7 @@ import (
 	"context"
 	"fmt"
 	"github.com/docker/docker/client"
-	"helpers"
+	"github.com/intel/RetailWorkloadOrchestrator/serf/handlers/src/helpers"
 	"io/ioutil"
 	"os"
 	"strings"

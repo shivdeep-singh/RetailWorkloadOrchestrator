@@ -9,7 +9,7 @@ import (
 	"net"
 	"os"
 	"os/exec"
-	mg "rwogluster"
+	mg "github.com/intel/RetailWorkloadOrchestrator/glusterfs-lib/rwogluster"
 	"strconv"
 	"strings"
 	"time"

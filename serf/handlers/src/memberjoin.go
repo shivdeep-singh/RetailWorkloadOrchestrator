@@ -4,11 +4,11 @@ package main
 
 import (
 	"fmt"
-	"helpers"
+	"github.com/intel/RetailWorkloadOrchestrator/serf/handlers/src/helpers"
 	"math/rand"
-	"memberupdatex"
+	"github.com/intel/RetailWorkloadOrchestrator/serf/handlers/src/memberupdatex"
 	"os"
-	mg "rwogluster"
+	mg "github.com/intel/RetailWorkloadOrchestrator/glusterfs-lib/rwogluster"
 	"strconv"
 	"strings"
 	"time"

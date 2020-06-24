@@ -3,7 +3,7 @@
 package main
 
 import (
-	"helpers"
+	"github.com/intel/RetailWorkloadOrchestrator/serf/handlers/src/helpers"
 	"testing"
 )
 

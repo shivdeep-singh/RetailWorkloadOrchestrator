@@ -3,7 +3,7 @@
 package memberupdatex
 
 import (
-	"helpers"
+	"github.com/intel/RetailWorkloadOrchestrator/serf/handlers/src/helpers"
 	"os"
 	"strings"
 	"time"

@@ -4,7 +4,7 @@ package memberupdatex
 
 import (
 	"fmt"
-	"helpers"
+	"github.com/intel/RetailWorkloadOrchestrator/serf/handlers/src/helpers"
 	"io/ioutil"
 	"os"
 	"time"

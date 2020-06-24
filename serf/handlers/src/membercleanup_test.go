@@ -4,7 +4,7 @@ package main
 
 import (
 	"fmt"
-	"helpers"
+	"github.com/intel/RetailWorkloadOrchestrator/serf/handlers/src/helpers"
 	"testing"
 )
 

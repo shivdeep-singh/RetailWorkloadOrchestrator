@@ -3,10 +3,10 @@
 package main
 
 import (
-	"helpers"
+	"github.com/intel/RetailWorkloadOrchestrator/serf/handlers/src/helpers"
 	"log"
 	"os"
-	mg "rwogluster"
+	mg "github.com/intel/RetailWorkloadOrchestrator/glusterfs-lib/rwogluster"
 	"strconv"
 	"strings"
 	"time"
