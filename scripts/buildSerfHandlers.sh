@@ -94,7 +94,7 @@ do
 done
 
 # lint member-update-x source files
-for i in `ls ${SERF_PATH}/src/member-update-x/*.go`
+for i in `ls ${SERF_PATH}/src/memberupdatex/*.go`
 do
     echo "$i" | awk -F"zeroConf/" '{ print $2}'
     lint_handlers $i
